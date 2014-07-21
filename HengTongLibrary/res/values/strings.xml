@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">HengTongLibrary</string>
+    <string name="dlg_loading_text">加载中&#8230;</string>
+    <string name="content_description">contentDescription</string>
+    <string name="sys_dialog_title_prompt">友情提示</string>
+
+    <!-- 网络处理部分 -->
+    <string name="act_sys_req_faile">操作失败！</string>
+    <string name="act_sys_req_http_error">网络太差!</string>
+
+    <!-- 版本更新提示信息 -->
+    <string name="downloading">正在下载…</string>
+    <string name="new_version_update">新版本，升级？</string>
+    <string name="new_version_force_update">新版本，强制升级</string>
+    <string name="old_version">本地版本：</string>
+    <string name="new_version">最新版本：</string>
+    <string name="new_version_size">大小：</string>
+    <string name="new_version_describe">升级内容：</string>
+    <string name="dialog_upgrade">升级</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="update_tip">升级提示</string>
+    <string name="forceupdate_forwait">需要强制升级，请等候下载完成</string>
+    <string name="begin_download">开始下载…</string>
+    <string name="downed_install">下载已完成，请点击安装</string>
+    <string name="install">安装</string>
+    <string name="cancel">取消安装</string>
+
+</resources>
