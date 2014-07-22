@@ -5,7 +5,7 @@
 ----
 
 #  BlueskyAndroid简介
-BlueskyAndroid 是一个积累了将近三年Android开发经验，经过不断修改、优化、总结而形成的Android开发库。现将它开源共享，希望广大技术同胞来一起进行优化、修改、打造出一个很好的快速开发Android客户端的开源库。让更过的Android从业者有更过经历和时间放在业务了解上。
+BlueskyAndroid 是一个积累了将近几年Android开发经验，经过不断修改、优化、总结而形成的Android开发库。现将它开源共享，希望广大技术同胞来一起进行优化、修改、打造出一个很好的快速开发Android客户端的开源库。让更过的Android从业者有更过经历和时间放在业务了解上。
 BlueskyAndroid 宗旨：用心写代码，态度决定出路。
 BlueskyAndroid 愿景：让更多Android从业者轻松搞定工作。
 BlueskyAndroid 包含：支持http请求、数据库操作、图片下载（缓存）、软件更新下载等不同模块以及Android开发过程中所用的各种工具类。
