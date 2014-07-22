@@ -44,7 +44,7 @@ android软件检测更新；
 内存管理使用lru算法，更好的管理bitmap内存；
 
 
-
+----
 ## 其他工具类：
 包含大量实用工具类
 字符串工具类：StringUtils
@@ -56,7 +56,7 @@ MD5加密工具类
 
 
 
-
+----
 # 关于作者【Bluesky】
 *  BlueskyAndroid交流网站：http://blog.csdn.net/hrx3627
 *  BlueskyAndroid交流QQ群 ：367818514
