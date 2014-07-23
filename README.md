@@ -1,4 +1,5 @@
 #ThinkAndroid 交流平台
+* 微信：huangrx1988
 * QQ群：367818514(交流群) 
 * 网址：http://blog.csdn.net/hrx3627
 
@@ -58,6 +59,7 @@ MD5加密工具类
 
 ----
 # 关于作者【Bluesky】
+*  作者微信：huangrx1988
 *  BlueskyAndroid交流网站：http://blog.csdn.net/hrx3627
 *  BlueskyAndroid交流QQ群 ：367818514
 
