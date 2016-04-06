@@ -427,6 +427,15 @@ public class UpdateManagerNew {
 	}
 
 	/**
+	 * 下载文件
+	 * @param url
+	 */
+	private void downloadFile() {
+		downLoadThread = new Thread(mdownApkRunnable);
+		downLoadThread.start();
+	}
+
+	/**
 	 * 安装apk
 	 * @param url
 	 */
